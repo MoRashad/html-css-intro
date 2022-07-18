@@ -1,0 +1,49 @@
+p {
+    font-family: Roboto;
+  }
+
+  .video-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    width: 280px;
+    line-height: 30px;
+    margin-bottom: 8px;
+  }
+
+  .views {
+    color: grey;
+    margin-top: 0px;
+  }
+
+  .channel {
+    color: gray;
+    margin-top: 35px;
+  }
+
+  .discription {
+    margin-top: 35px;
+    width: 280px;
+    color: gray;
+    line-height: 22px;
+    margin-bottom: 30px;
+  }
+
+  .apple-text {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 94);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .span-example {
+    margin-left: 12px;
+  }
+
+  .span-example:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
